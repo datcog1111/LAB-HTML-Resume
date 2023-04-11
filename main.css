@@ -1,3 +1,28 @@
-body {
-  background-color: darkmagenta;
+body{
+  background-color: lightgreen;
 }
+  
+
+  h2{
+    color:forestgreen
+  }
+
+  article{
+    padding:50px;
+  }
+    
+  
+  #articleOne{
+    font-family: Arial, Helvetica, sans-serif;
+    border:3px solid white
+  }
+
+  #articleTwo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px groove purple
+  }
+
+  #articleThree{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px ridge lightcoral
+  }
